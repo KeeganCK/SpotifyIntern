@@ -1,3 +1,7 @@
+# Shopify Intern Challenge
+
+This app was created for the spotify intern challenge by Keegan Kavanagh
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
